@@ -1,0 +1,12 @@
+git add . 
+
+
+git commit -m "메세지" 
+
+
+
+git branch -M main 
+
+
+
+git push -u origin main
